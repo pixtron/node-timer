@@ -1,0 +1,27 @@
+{
+  "name": "@pxtrn/timer",
+  "version": "1.0.0",
+  "description": "EventEmitter emitting `tick` based on a given cron expression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixtron/node-timer.git"
+  },
+  "keywords": [
+    "cron",
+    "event",
+    "emitter"
+  ],
+  "author": "Stefan Aebischer <os@pixtron.ch> (https://pixtron.ch)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixtron/node-timer/issues"
+  },
+  "homepage": "https://github.com/pixtron/node-timer#readme",
+  "dependencies": {
+    "cron-parser": "^2.13.0"
+  }
+}
