@@ -1,7 +1,7 @@
 # @pxtrn/timer
 
 Emits `tick` based on a cron expression.
-See `[cron-parser](https://www.npmjs.com/package/cron-parser#supported-format)`
+See [`cron-parser`](https://www.npmjs.com/package/cron-parser#supported-format)
 for supported formats.
 
 ## Installation
