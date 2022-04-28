@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/pixtron/node-timer#readme",
   "dependencies": {
-    "cron-parser": "^2.13.0"
+    "cron-parser": "^4.3.0"
   }
 }
