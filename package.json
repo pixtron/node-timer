@@ -1,6 +1,6 @@
 {
   "name": "@pxtrn/timer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "EventEmitter emitting `tick` based on a given cron expression",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,7 @@
   "dependencies": {
     "cron-parser": "^4.3.0"
   },
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }
